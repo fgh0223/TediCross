@@ -6,7 +6,7 @@ telegram:
   sendEmojiWithStickers: true
 discord:
   useNickname: false
-  token: NzY1Nzc5MjQwNjkxOTU3NzYx.X4Zxfg.yXDEdFsfV_2rR6r-PM3W4ZCxeYE       # Discord bot tokens look like this: MjI3MDA1NzIvOBQ2MzAzMiMz.DRf-aw.N0MVYtDxXYPSQew4g2TPqvQve2c
+  token: NzY1Nzg3MzkxNzU0NjMzMjU3.X4Z5FQ.u-lwk10suu1xrprNu5iiy6K5mS4       # Discord bot tokens look like this: MjI3MDA1NzIvOBQ2MzAzMiMz.DRf-aw.N0MVYtDxXYPSQew4g2TPqvQve2c
   skipOldMessages: true
   displayTelegramReplies: embed
   replyLength: 100
