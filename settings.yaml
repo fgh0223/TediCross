@@ -6,7 +6,7 @@ telegram:
   sendEmojiWithStickers: true
 discord:
   useNickname: false
-  token: NzY1NTQyNDYxOTI5MjkxNzg2.X4WU-g.cvLgeVBuRF3OhIUU3Swt-PcAip0
+  token: NzY1Nzc5MjQwNjkxOTU3NzYx.X4Zxfg.0q9c1yJnXiC03uj1qNyTe_kcF5Q
   skipOldMessages: true
   displayTelegramReplies: embed
   replyLength: 100
