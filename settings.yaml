@@ -1,0 +1,30 @@
+telegram:
+  token: 1333214418:AAHWzaLCiOSjwYGmVCDN0sEewuRFzJ_MLAg
+  useFirstNameInsteadOfUsername: false
+  colonAfterSenderName: false
+  skipOldMessages: true
+  sendEmojiWithStickers: true
+discord:
+  useNickname: false
+  token: NzY1NTQyNDYxOTI5MjkxNzg2.X4WU-g.7rk8JN-YygHDBGvRZEko0YTYDWY
+  skipOldMessages: true
+  displayTelegramReplies: embed
+  replyLength: 100
+  maxReplyLines: 2
+bridges:
+  - name: First bridge
+    direction: both
+    telegram:
+      chatId: -1001320989343
+      relayJoinMessages: true
+      relayLeaveMessages: true
+      sendUsernames: true
+      relayCommands: true
+      crossDeleteOnDiscord: true
+    discord:
+      channelId: '752382034269175859'    
+      relayJoinMessages: true
+      relayLeaveMessages: true
+      sendUsernames: true
+      crossDeleteOnTelegram: true
+debug: false
